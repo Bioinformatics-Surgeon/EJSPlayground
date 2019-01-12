@@ -3,7 +3,7 @@
 > Effective JavaScript was written by David Herman
 > &copy; 2013 Person Education
 
-## Purpose: a platform to:
+## Purpose - a platform to:
 
 - ask questions?
 - pass code examples between Collaborators
